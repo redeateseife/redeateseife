@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redeateseife
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning Excel, SQL, and R.
-- 💞️ I’m looking to collaborate on anything data anlytics related.
+- 💞️ I’m looking to collaborate on anything data analytics related.
 - 📫 How to reach me: @redeateseife on Twitter!
 
 <!---
