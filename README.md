@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Data Analytics.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on app creation.
-- 📫 How to reach me: @redeateseife on X (formerly known as Twitter)!
+- 📫 How to reach me: @redeateseife on X (formerly known as Twitter).
 
 <!---
 redeateseife/redeateseife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
