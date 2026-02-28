@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redeateseife
 - 👀 I’m interested in Programming and Data Analytics.
-- 🌱 I’m currently learning Python and SQL.
+- 🌱 I’m currently learning Java, Python, and SQL.
 - 💞️ I’m looking to collaborate on app creation.
 - 📫 How to reach me: @redeateseife on X (formerly known as Twitter).
 
