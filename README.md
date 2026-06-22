@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing a Master's in Computer Science from Harvard Extension School and know C, Java, Python, and SQL.
 - 💞️ I’m looking to collaborate on app creation and upskilling.
 - 📫 How to reach me:
-  - [LinkedIn] (https://www.linkedin.com/in/redeateseife/)
+  - [LinkedIn](https://www.linkedin.com/in/redeateseife/)
 
 <!---
 redeateseife/redeateseife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
