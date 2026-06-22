@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @redeateseife (Reh-dih-et Say-fuh) but I go by Reddy.
-- 👀 My interests include Programming and Data Analytics.
-- 🌱 I’m currently pursuing a Master's in Computer Science from Harvard Extension School and know C, Java, Python, and SQL.
-- 💞️ I’m looking to collaborate on app creation and upskilling.
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/redeateseife/)
+# Hi, I'm Reddy (Redeate Seife | Reh-dih-et Say-fuh)
 
-<!---
-redeateseife/redeateseife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data analyst with a background in retail pharmacy and technical operations, currently pursuing a Master's in CS at Harvard Extension School.
+
+🌱 Working through projects in Python, SQL, Java, and C as part of my MS program and as a way to continually develop my programming abilities.
+
+### 🛠️ Tech Stack
+**Languages** | Python · SQL · Java · C  
+**Databases** | PostgreSQL  
+**Tools** | Docker · pandas
+
+### [LinkedIn](https://www.linkedin.com/in/redeateseife/)
