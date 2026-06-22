@@ -2,11 +2,28 @@
 
 Data analyst with a background in retail pharmacy and technical operations, currently pursuing a Master's in CS at Harvard Extension School.
 
-🌱 Working through projects in Python, SQL, Java, and C as part of my MS program and as a way to continually develop my programming abilities.
+🌱 Working through projects in Python, SQL, Java, and C as part of my MS program.
 
 ### 🛠️ Tech Stack
 **Languages** | Python · SQL · Java · C  
 **Databases** | PostgreSQL  
 **Tools** | Docker · pandas
 
-### [LinkedIn](https://www.linkedin.com/in/redeateseife/)
+### 🚀 Projects
+**Smart Inventory Management System (SIMS)** | Python  
+Inventory management app built with Streamlit and a modular service-layer architecture.
+Features inventory tracking, idle-stock analysis, and full CRUD workflows backed by CSV storage.
+
+**JavaKeys** | Java  
+Desktop piano application with real-time audio playback built in Java Swing,
+applying object-oriented design and event-driven GUI architecture.
+
+**Fifteen Puzzle** | Java  
+Java Swing implementation of the classic sliding tile puzzle with move tracking,
+shuffle logic, and a win-detection system.
+
+**Calculator** | Java  
+Java Swing calculator with a separated backend logic layer, operator chaining,
+square root support, and a toggleable paper tape for calculation history.
+
+### 📫 [LinkedIn](https://www.linkedin.com/in/redeateseife/)
