@@ -1,6 +1,7 @@
 # Hi, I'm Reddy (Redeate Seife | Reh-dih-et Say-fuh)
 
-Data analyst with a background in retail pharmacy and technical operations, currently pursuing a Master's in CS at Harvard Extension School.
+Data analyst with a background in retail pharmacy and technical operations, 
+currently pursuing a Master's in CS at Harvard Extension School.
 
 🌱 Working through projects in Python, SQL, Java, and C as part of my MS program.
 
@@ -15,11 +16,11 @@ Inventory management app built with Streamlit and a modular service-layer archit
 Features inventory tracking, idle-stock analysis, and full CRUD workflows backed by CSV storage.
 
 **JavaKeys** | Java  
-Desktop piano application with real-time audio playback built in Java Swing,
-applying object-oriented design and event-driven GUI architecture.
+Desktop piano application built in Java Swing with real-time WAV audio playback, 
+mouse and keyboard input, and event-driven GUI architecture.
 
 **Fifteen Puzzle** | Java  
-Java Swing implementation of the classic sliding tile puzzle with move tracking,
+Java Swing implementation of the classic sliding tile puzzle with move tracking, 
 shuffle logic, and a win-detection system.
 
 **Calculator** | Java  
